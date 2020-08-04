@@ -1,9 +1,8 @@
-#Idris blackhat
+#  Idris blackhat
 
 [![Github](https://img.shields.io/github/followers/blackhat-t?label=Follow&style=social)](https://github.com/blackhat-t)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=blackhat-t)](https://github.com/blackhat-t)
-[![Linkedin](https://img.shields.io/badge/-Alexey%20Khachatryan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)]
-[![Mail](https://img.shields.io/badge/-info@khachatryan.org-gray?style=flat-square&logo=gmail&logoColor=red&link=)]
+
 
 
 
@@ -51,7 +50,7 @@ I'm open-source development enthusiast.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<br/>
 ### Interesting stats
 
 ![Idris' stats](https://github-readme-stats.vercel.app/api?username=blackhat-t&show_icons=true)
