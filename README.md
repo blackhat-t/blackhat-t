@@ -11,8 +11,8 @@
 
 
 ## About me 
-I'm a software development engineer. I like to work with django, NodeJS and Idris. I love Linux Kernel based OSs such as archlinux and CentOS.
-I'm open-source development enthusiast.
+I'm a software developer. I like to work with django, NodeJS and Idris. I love Linux Kernel based OSs such as archlinux and CentOS.
+I'm open-source  enthusiastic.
 
 
 ## Stack I work with
