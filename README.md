@@ -3,7 +3,7 @@
 </p>
 
 #  Idris blackhat (haxor)
-## contact me for business?  (https://t.me/idri_s)
+## Talk to me?  (https://t.me/idri_s)
 
 [![Github](https://img.shields.io/github/followers/blackhat-t?label=Follow&style=social)](https://github.com/blackhat-t)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=blackhat-t)](https://github.com/blackhat-t)
