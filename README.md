@@ -1,6 +1,12 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/blackhat-t/blackhat-t/master/images/super-kid.gif" />
+<p align="right">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/thewhiteh4t?label=Followers">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=thewhiteh4t.visitor-badge"> 
 </p>
+
+<a href="https://www.iamhdpro.com" target="_blank">
+  <img src="https://i.imgur.com/9cuaxGU.jpg">
+</a>
+<br><br>
 
 #  Idris blackhat (haxor)
 ## Talk to me?  (https://t.me/idri_s)
